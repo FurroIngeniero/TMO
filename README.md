@@ -16,6 +16,9 @@ Se necesita python para correr correctamente este script
 
 Puedes instalarlo desde el terminal con pip install selenium
 
+2. webdriver_manager
+
+Puedes instalarlo desde el terminal con pip install webdriver_manager
 
 # MODIFICACIONES
 
