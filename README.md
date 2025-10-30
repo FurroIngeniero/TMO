@@ -10,7 +10,9 @@ Web Scrapping para LectorTMO, permite conseguir los titulos de los mangas guarda
 
 Se necesita python para correr correctamente este script
 
-2. Selenium
+# LIBRERIAS NECESARIAS
+
+1. Selenium
 
 Puedes instalarlo desde el terminal con pip install selenium
 
