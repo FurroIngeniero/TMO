@@ -1,7 +1,7 @@
 # TMO
 Web Scrapping para LectorTMO, permite conseguir los titulos de los mangas guardados en Leidos, Pendientes, Siguiendo, Favoritos y Lo tengo, no se cuenta con los abandonados porque estos mismos no son requeridos para recuperar, todos estos son verificados desde el navegador Brave
 
-![alt text](../TMO/image/image.png)
+![image](../TMO/image/image.png)
 
 
 # HERRAMIENTAS NECESARIAS
@@ -19,4 +19,4 @@ Puedes instalarlo desde el terminal con pip install selenium
 
 Si requieres cambiar el navegador por comodidad o porque no cuentas con este instalado, debes de modificar la linea 15.
 
-![alt text](/TMO/image/linea15.png)
+![Linea15](/TMO/image/linea15.png)
