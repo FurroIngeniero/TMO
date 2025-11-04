@@ -22,9 +22,7 @@ Puedes instalarlo desde el terminal con pip install webdriver_manager
 
 # MODIFICACIONES
 
-Si requieres cambiar el navegador por comodidad o porque no cuentas con este instalado, debes de modificar la linea 15.
-
-![Linea15](linea15.png)
+al momento de ejecutar el script, este preguntara de que navegador prefieres realizar el proceso, recuerda que se debe de tener el navegador instalado.
 
 
 # DESCARGA
